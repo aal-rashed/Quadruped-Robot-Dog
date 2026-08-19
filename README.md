@@ -113,11 +113,3 @@ Movement direction is automatically reversed depending on the servo’s offset (
 7. Update the walking code  
 8. Test walking and adjust offsets if needed
 
-## Demo
-Add photos or videos of your robot here.
-
-## Contributing
-Pull requests are welcome. Improve the gait, add turning, or enhance stability.
-
-## License
-MIT License
