@@ -43,12 +43,10 @@ Use an external 5V supply and connect Arduino GND + Power Supply GND together.
 - ECHO → D11  
 
 ## Install Arduino IDE
-1. Go to https://www.arduino.cc/en/software  
-2. Download Arduino IDE  
-3. Install it  
-4. Open Arduino IDE  
-5. Tools → Board → Arduino Uno  
-6. Tools → Port → COMx  
+1. Go to https://www.arduino.cc/en/software and Download Arduino IDE
+2. Open Arduino IDE 
+3. Tools → Board → Arduino Uno
+4. Tools → Port → COMx  
 
 ## Uploading the Code
 1. Disconnect servo signal wires (D3, D5, D6, D9)  
